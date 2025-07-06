@@ -89,7 +89,12 @@ It demonstrates how data science and machine learning can help predict the risk 
    streamlit run app.py
    ```
 
-✅ **Contribution & Impact**
+### OR
+
+2. Simply run the attached Colab Notebook: [Pakistan Heart Failure Mortality Prediction Notebook](./pakistan_heart_failure_mortality_prediction_ahsan_javed.ipynb)
+
+
+## ✅ **Contribution & Impact**
 This project highlights how AI solutions can support healthcare in Pakistan by:
 
 - Providing early risk prediction tools for hospitals and clinics.
@@ -98,22 +103,26 @@ This project highlights how AI solutions can support healthcare in Pakistan by:
 
 - Demonstrating how local data can be used to build local solutions.
 
-⚠️ **Limitations**
+## ⚠️ **Limitations**
 - The dataset is small and may not cover all demographic and medical variations.
 
 - Predictions are not medically certified — they are for educational and research purposes only.
 
 - For real-world use, larger, validated datasets and clinical testing would be required.
 
-🤝 **Contributions**
+## 🤝 **Contributions**
 All contributions are welcome!
 
 📌 Ideas for improving the notebook, app UI, expanding the dataset, or adding new deployment methods (FastAPI, Docker) are highly appreciated.
 
 Please open an issue or submit a pull request to collaborate.
 
-📜 **License & Disclaimer**
+## 📜 **License & Disclaimer**
 This project is open for educational and non-commercial research use only.
 Always consult qualified healthcare professionals for any real medical decisions.
 
-
+## 📧 Contact
+**Author:** Ahsan Javed
+* **Email:** ahsan.javed1702@gmail.com
+* **GitHub:** [https://github.com/ahsan-javed-ds](https://github.com/ahsan-javed-ds)
+* **LinkedIn:** [https://www.linkedin.com/in/ahsan-javed17/](https://www.linkedin.com/in/ahsan-javed17/)
