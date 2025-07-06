@@ -32,9 +32,12 @@ It demonstrates how data science and machine learning can help predict the risk 
 
 ## 📊 Dataset
 
-- The dataset comes from **real patient data in Pakistan** (anonymized).
-- It contains demographic details, lifestyle indicators, medical history, and key biochemical test results.
-- Special focus is on locally relevant cardiovascular risk factors.
+This dataset contains comprehensive cardiac patient information for heart failure mortality prediction from Pakistani patients, collected by the Computer-Human Interaction and Social Experience Lab (CHISEL) at LUMS University.
+
+Source: Open Data Pakistan - Heart Failure Prediction Dataset
+URL: https://opendata.com.pk/dataset/the-heart-failure-prediction-pakistan
+Total Records: 368 patients
+Total Features: 60 (59 features + 1 target variable)
 
 **Disclaimer:** The dataset is limited in scope and scale. It is meant for research and educational demonstration only — not for real clinical diagnosis.
 
