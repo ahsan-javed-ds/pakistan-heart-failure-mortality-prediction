@@ -1,6 +1,6 @@
 # ❤️ Pakistan Heart Failure Mortality Prediction
 
-![UI Screenshot](./path_to_your_ui_screenshot.png)
+![UI Screenshot](pakistan_heart_failure_predictor_streamlit_app_UI.png)
 
 ---
 
@@ -69,7 +69,7 @@ It demonstrates how data science and machine learning can help predict the risk 
 
 ## 📷 User Interface
 
-![UI Screenshot](./path_to_your_ui_screenshot.png)
+![UI Screenshot](pakistan_heart_failure_predictor_streamlit_app_UI.png)
 
 *Above: Example of the prediction UI (replace with your actual screenshot).*
 
