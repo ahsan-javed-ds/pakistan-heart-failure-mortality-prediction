@@ -74,8 +74,6 @@ Total Features: 60 (59 features + 1 target variable)
 
 ![UI Screenshot](pakistan_heart_failure_predictor_streamlit_app_UI.png)
 
-*Above: Example of the prediction UI (replace with your actual screenshot).*
-
 ---
 
 ## ⚙️ How to Run
